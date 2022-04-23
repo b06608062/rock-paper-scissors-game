@@ -1,0 +1,11 @@
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\bin\Debug\rock-paper-scissors-game.exe.config
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\bin\Debug\rock-paper-scissors-game.exe
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\bin\Debug\rock-paper-scissors-game.pdb
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\obj\Debug\rock-paper-scissors-game.csproj.AssemblyReference.cache
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\obj\Debug\rock-paper-scissors-game.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\obj\Debug\rock_paper_scissors_game.MainForm.resources
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\obj\Debug\rock_paper_scissors_game.Properties.Resources.resources
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\obj\Debug\rock-paper-scissors-game.csproj.GenerateResource.cache
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\obj\Debug\rock-paper-scissors-game.csproj.CoreCompileInputs.cache
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\obj\Debug\rock-paper-scissors-game.exe
+C:\Users\fanti\source\repos\rock-paper-scissors-game\rock-paper-scissors-game\obj\Debug\rock-paper-scissors-game.pdb
